@@ -1,2 +1,11 @@
-Introduction to Trading view
+# Things learned till now
 
+1. learned about basics and overview of trading View platform which is a social network for traders 
+   and investors that offers a free demo of its trade charting platform.
+2. Watched tutorials on youtube of how to make trading stratigies in trading view.
+3. learned about using pine script in "Double Decker RSI Strategy" with clear Systematic Trading Rules and shows how to 
+   code an indicator and subsequent backtest for the strategy.
+4. Technical Indicators in a trading toolkit from Investopedia. seven of them are On-balance volume (OBV), Accumulation/distribution line
+   Average directional index, Aroon oscillator, Moving average convergence divergence (MACD), Relative strength index (RSI),
+   Stochastic oscillator
+5. then learned, advanced Pine functions and building an indicator, and then converting that indicator into a Strategy 
